@@ -10,7 +10,7 @@
 ![Estrellas](https://img.shields.io/github/stars/Representaciones-Pedraja/smartbanner?style=social)
 ![Forks](https://img.shields.io/github/forks/Representaciones-Pedraja/smartbanner?style=social)
 
-# SmartBanner
+# SmartBanner PrestaShop 🛍️📱
 
 A PrestaShop module to promote your Android or iOS app with a customizable SmartBanner, allowing easy app promotion from your online store. This module provides a back-office interface for full control over banner content, including app details, images, and links to your app on both the App Store and Google Play.
 
