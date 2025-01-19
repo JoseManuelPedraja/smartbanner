@@ -35,7 +35,7 @@ A PrestaShop module to promote your Android or iOS app with a customizable Smart
 
 ## Documentation
 
-Visit the [Wiki](https://github.com/Representaciones-Pedraja/smartbanner/wiki) for full documentation, including detailed configuration instructions and troubleshooting tips.
+Visit the [Wiki](https://github.com/JoseManuelPedraja/smartbanner/wiki) for full documentation, including detailed configuration instructions and troubleshooting tips.
 
 ## License
 
