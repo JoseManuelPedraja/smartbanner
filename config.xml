@@ -2,7 +2,7 @@
 <module>
 	<name>SmartBanner</name>
 	<displayName><![CDATA[contentbox]]></displayName>
-	<version><![CDATA[1.0.0]]></version>
+	<version><![CDATA[1.0.1]]></version>
 	<description><![CDATA[Módulo SmartBanner]]></description>
 	<author><![CDATA[Jose Manuel Pedraja]]></author>
 	<tab><![CDATA[front_office_features]]></tab>
