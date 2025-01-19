@@ -1,14 +1,14 @@
 ![PrestaShop](https://img.shields.io/badge/PrestaShop-8.x-blue.svg)
 ![PHP](https://img.shields.io/badge/PHP-8.0%20%7C%208.1-8892BF.svg?style=flat-square)
-![Último Release](https://img.shields.io/github/v/release/Representaciones-Pedraja/smartbanner?include_prereleases)
-![GitHub issues](https://img.shields.io/github/issues/Representaciones-Pedraja/smartbanner)
-![Top Language](https://img.shields.io/github/languages/top/Representaciones-Pedraja/smartbanner)
-![Code Size](https://img.shields.io/github/languages/code-size/Representaciones-Pedraja/smartbanner)
-![Last Commit](https://img.shields.io/github/last-commit/Representaciones-Pedraja/smartbanner)
-![Licencia](https://img.shields.io/github/license/Representaciones-Pedraja/smartbanner)
-![Descargas](https://img.shields.io/github/downloads/Representaciones-Pedraja/smartbanner/total)
-![Estrellas](https://img.shields.io/github/stars/Representaciones-Pedraja/smartbanner?style=social)
-![Forks](https://img.shields.io/github/forks/Representaciones-Pedraja/smartbanner?style=social)
+![Último Release](https://img.shields.io/github/v/release/JoseManuelPedraja/smartbanner?include_prereleases)
+![GitHub issues](https://img.shields.io/github/issues/JoseManuelPedraja/smartbanner)
+![Top Language](https://img.shields.io/github/languages/top/JoseManuelPedraja/smartbanner)
+![Code Size](https://img.shields.io/github/languages/code-size/JoseManuelPedraja/smartbanner)
+![Last Commit](https://img.shields.io/github/last-commit/JoseManuelPedraja/smartbanner)
+![Licencia](https://img.shields.io/github/license/JoseManuelPedraja/smartbanner)
+![Descargas](https://img.shields.io/github/downloads/JoseManuelPedraja/smartbanner/total)
+![Estrellas](https://img.shields.io/github/stars/JoseManuelPedraja/smartbanner?style=social)
+![Forks](https://img.shields.io/github/forks/JoseManuelPedraja/smartbanner?style=social)
 
 # SmartBanner PrestaShop 🛍️📱
 
