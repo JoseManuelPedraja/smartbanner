@@ -2,8 +2,6 @@
 ![PHP](https://badgen.net/badge/PHP/8.0%20%7C%208.1/8892BF)
 ![Último Release](https://badgen.net/github/release/JoseManuelPedraja/smartbanner?include_prereleases)
 ![GitHub issues](https://badgen.net/github/issues/JoseManuelPedraja/smartbanner)
-![Top Language](https://badgen.net/github/top-language/JoseManuelPedraja/smartbanner)
-![Code Size](https://badgen.net/github/code-size/JoseManuelPedraja/smartbanner)
 ![Last Commit](https://badgen.net/github/last-commit/JoseManuelPedraja/smartbanner)
 ![Licencia](https://badgen.net/github/license/JoseManuelPedraja/smartbanner)
 ![Descargas](https://badgen.net/github/assets-dl/JoseManuelPedraja/smartbanner)
