@@ -35,5 +35,5 @@ Visit the [Wiki](https://github.com/JoseManuelPedraja/smartbanner/wiki) for full
 
 ## License
 
-This project is licensed under the GNU - see the [LICENSE](LICENSE) file for details. This module is based on the [smartbanner.js project by ain](https://github.com/ain/smartbanner.js/tree/main).
+This project is licensed under the GNU - see the [LICENSE](LICENSE.md) file for details. This module is based on the [smartbanner.js project by ain](https://github.com/ain/smartbanner.js/tree/main).
 
