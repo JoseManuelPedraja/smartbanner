@@ -203,8 +203,8 @@ class SmartBanner extends Module
 
     public function hookDisplayHeader($params)
     {
-        $this->context->controller->addCSS($this->_path.'views/assets/css/smartbanner.css');
-        $this->context->controller->addJS($this->_path.'views/assets/js/smartbanner.js');
+        $this->context->controller->addCSS($this->_path.'views/css/smartbanner.css');
+        $this->context->controller->addJS($this->_path.'views/js/smartbanner.js');
     }
 
     public function hookDisplayTop($params)
