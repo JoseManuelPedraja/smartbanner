@@ -10,7 +10,7 @@ class SmartBanner extends Module
     {
         $this->name = 'smartbanner';
         $this->tab = 'front_office_features';
-        $this->version = '1.0.1';
+        $this->version = '1.0.2';
         $this->author = 'Jose Manuel Pedraja';
         $this->need_instance = 0;
         $this->ps_versions_compliancy = ['min' => '8.0', 'max' => _PS_VERSION_];

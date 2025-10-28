@@ -2,7 +2,7 @@
 <module>
     <name>smartbanner</name>
     <displayName><![CDATA[Smart Banner]]></displayName>
-    <version><![CDATA[1.0.1]]></version>
+    <version><![CDATA[1.0.2]]></version>
     <description><![CDATA[Customisable smart app banner for iOS and Android.]]></description>
     <author><![CDATA[Jose Manuel Pedraja]]></author>
     <tab><![CDATA[front_office_features]]></tab>
